@@ -1,4 +1,4 @@
-# Simple Card Border With HTML & CSS
+# Simple Animated Card Border With HTML & CSS
 
 This CSS code creates a stylish card component with an animated glowing border effect. Below is a detailed breakdown of its elements and functionality:
 
