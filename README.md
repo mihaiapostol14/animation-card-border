@@ -26,7 +26,8 @@ This CSS code creates a stylish card component with an animated glowing border e
 - The `::before` pseudo-element applies a blur effect for an additional glowing look.
 - Implements `@keyframes spin` to rotate the gradient continuously, creating a dynamic glowing border effect.
 
-Cloning project or download archive
+## **Git Repository**
+To clone the repository and use this project locally, run the following command in your terminal:
 ```bash
 git clone https://github.com/mihaiapostol14/animation-card-border.git
 ```
